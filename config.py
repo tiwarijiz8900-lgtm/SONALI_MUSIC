@@ -13,13 +13,13 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 # ===============================================
 
 OWNER_ID = int(getenv("OWNER_ID", 7473021518))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "TheSigmaCoder")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_WTF_SHEZADA_ll")
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # ===============================================
 
 BOT_USERNAME = getenv("BOT_USERNAME", "Sonali_Music_bot")
-BOT_NAME = getenv("BOT_NAME", "Sonali Music")
+BOT_NAME = getenv("BOT_NAME", "pari Music")
 
 # ===============================================
 
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ===============================================
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/love_bot_143")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Love_familysupport")
 
 # ===============================================
 
@@ -76,8 +76,8 @@ confirmer = {}
 
 # ===============================================
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/6borug.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/r3n3ok.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/i4aiar.jpg")
 
 PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/i0qmgf.jpg"
